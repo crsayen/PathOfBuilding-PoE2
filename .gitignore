@@ -43,5 +43,10 @@ src/Data/TimelessJewelData/*.bin
 # Simplegraphic Debugging
 runtime/imgui.ini
 
+# macOS build artifacts
+*.app/
+runtime/*.dylib
+runtime/PathOfBuilding
+
 
 src/poe_api_response.json
